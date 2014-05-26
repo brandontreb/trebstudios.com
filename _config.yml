@@ -1,0 +1,10 @@
+name: "Treb Studios"
+description: "Mobile App Development"
+
+url: "http://trebstudios.com"
+
+paginate: 10
+
+markdown: rdiscount
+permalink: pretty
+pygments: true
